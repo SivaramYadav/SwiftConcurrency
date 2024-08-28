@@ -14,6 +14,8 @@
 		7F644F332C79BA960075A406 /* DoCatchTrysThrowBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F322C79BA960075A406 /* DoCatchTrysThrowBC.swift */; };
 		7F644F352C7B96F60075A406 /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F342C7B96F60075A406 /* DownloadImageAsync.swift */; };
 		7F644F572C7CBD440075A406 /* AsyncAwaitBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F562C7CBD440075A406 /* AsyncAwaitBC.swift */; };
+		7F644F592C7D92CF0075A406 /* TasksBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F582C7D92CF0075A406 /* TasksBC.swift */; };
+		7F644F5B2C7E14C20075A406 /* AsyncLetBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F5A2C7E14C20075A406 /* AsyncLetBC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		7F644F322C79BA960075A406 /* DoCatchTrysThrowBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTrysThrowBC.swift; sourceTree = "<group>"; };
 		7F644F342C7B96F60075A406 /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
 		7F644F562C7CBD440075A406 /* AsyncAwaitBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitBC.swift; sourceTree = "<group>"; };
+		7F644F582C7D92CF0075A406 /* TasksBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksBC.swift; sourceTree = "<group>"; };
+		7F644F5A2C7E14C20075A406 /* AsyncLetBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLetBC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				7F644F322C79BA960075A406 /* DoCatchTrysThrowBC.swift */,
 				7F644F342C7B96F60075A406 /* DownloadImageAsync.swift */,
 				7F644F562C7CBD440075A406 /* AsyncAwaitBC.swift */,
+				7F644F582C7D92CF0075A406 /* TasksBC.swift */,
+				7F644F5A2C7E14C20075A406 /* AsyncLetBC.swift */,
 				7F644F282C79BA680075A406 /* Assets.xcassets */,
 				7F644F2A2C79BA680075A406 /* Preview Content */,
 			);
@@ -149,6 +155,8 @@
 				7F644F352C7B96F60075A406 /* DownloadImageAsync.swift in Sources */,
 				7F644F272C79BA670075A406 /* ContentView.swift in Sources */,
 				7F644F572C7CBD440075A406 /* AsyncAwaitBC.swift in Sources */,
+				7F644F5B2C7E14C20075A406 /* AsyncLetBC.swift in Sources */,
+				7F644F592C7D92CF0075A406 /* TasksBC.swift in Sources */,
 				7F644F252C79BA670075A406 /* SwiftConcurrencyApp.swift in Sources */,
 				7F644F332C79BA960075A406 /* DoCatchTrysThrowBC.swift in Sources */,
 			);
