@@ -13,7 +13,8 @@ struct ContentView: View {
         //AsyncAwaitBC()
         //TasksBC()
         //TasksBCHomeView()
-        StructClassActorHomeView()
+        //StructClassActorHomeView()
+        ActorsBC()
     }
 }
 
