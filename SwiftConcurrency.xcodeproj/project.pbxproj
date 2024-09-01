@@ -18,6 +18,7 @@
 		7F644F5B2C7E14C20075A406 /* AsyncLetBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F5A2C7E14C20075A406 /* AsyncLetBC.swift */; };
 		7F644F7D2C7F06D50075A406 /* TaskGroupBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F7C2C7F06D50075A406 /* TaskGroupBC.swift */; };
 		7F644F7F2C81CB6C0075A406 /* CheckedContinuationBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F7E2C81CB6C0075A406 /* CheckedContinuationBC.swift */; };
+		7F644F812C833FAF0075A406 /* StructClassActorBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F802C833FAF0075A406 /* StructClassActorBC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		7F644F5A2C7E14C20075A406 /* AsyncLetBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLetBC.swift; sourceTree = "<group>"; };
 		7F644F7C2C7F06D50075A406 /* TaskGroupBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupBC.swift; sourceTree = "<group>"; };
 		7F644F7E2C81CB6C0075A406 /* CheckedContinuationBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuationBC.swift; sourceTree = "<group>"; };
+		7F644F802C833FAF0075A406 /* StructClassActorBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				7F644F5A2C7E14C20075A406 /* AsyncLetBC.swift */,
 				7F644F7C2C7F06D50075A406 /* TaskGroupBC.swift */,
 				7F644F7E2C81CB6C0075A406 /* CheckedContinuationBC.swift */,
+				7F644F802C833FAF0075A406 /* StructClassActorBC.swift */,
 				7F644F282C79BA680075A406 /* Assets.xcassets */,
 				7F644F2A2C79BA680075A406 /* Preview Content */,
 			);
@@ -164,6 +167,7 @@
 				7F644F272C79BA670075A406 /* ContentView.swift in Sources */,
 				7F644F572C7CBD440075A406 /* AsyncAwaitBC.swift in Sources */,
 				7F644F5B2C7E14C20075A406 /* AsyncLetBC.swift in Sources */,
+				7F644F812C833FAF0075A406 /* StructClassActorBC.swift in Sources */,
 				7F644F592C7D92CF0075A406 /* TasksBC.swift in Sources */,
 				7F644F252C79BA670075A406 /* SwiftConcurrencyApp.swift in Sources */,
 				7F644F332C79BA960075A406 /* DoCatchTrysThrowBC.swift in Sources */,

@@ -12,7 +12,8 @@ struct ContentView: View {
         //DownloadImageAsync()
         //AsyncAwaitBC()
         //TasksBC()
-        TasksBCHomeView()
+        //TasksBCHomeView()
+        StructClassActorHomeView()
     }
 }
 
