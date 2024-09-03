@@ -20,6 +20,7 @@
 		7F644F7F2C81CB6C0075A406 /* CheckedContinuationBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F7E2C81CB6C0075A406 /* CheckedContinuationBC.swift */; };
 		7F644F812C833FAF0075A406 /* StructClassActorBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F802C833FAF0075A406 /* StructClassActorBC.swift */; };
 		7F73B7C12C84712900A5C107 /* ActorsBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F73B7C02C84712900A5C107 /* ActorsBC.swift */; };
+		7F73B7C32C84D32500A5C107 /* GlobalActorBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F73B7C22C84D32500A5C107 /* GlobalActorBC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		7F644F7E2C81CB6C0075A406 /* CheckedContinuationBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuationBC.swift; sourceTree = "<group>"; };
 		7F644F802C833FAF0075A406 /* StructClassActorBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructClassActorBC.swift; sourceTree = "<group>"; };
 		7F73B7C02C84712900A5C107 /* ActorsBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActorsBC.swift; sourceTree = "<group>"; };
+		7F73B7C22C84D32500A5C107 /* GlobalActorBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorBC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				7F644F7E2C81CB6C0075A406 /* CheckedContinuationBC.swift */,
 				7F644F802C833FAF0075A406 /* StructClassActorBC.swift */,
 				7F73B7C02C84712900A5C107 /* ActorsBC.swift */,
+				7F73B7C22C84D32500A5C107 /* GlobalActorBC.swift */,
 				7F644F282C79BA680075A406 /* Assets.xcassets */,
 				7F644F2A2C79BA680075A406 /* Preview Content */,
 			);
@@ -165,6 +168,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F644F352C7B96F60075A406 /* DownloadImageAsync.swift in Sources */,
+				7F73B7C32C84D32500A5C107 /* GlobalActorBC.swift in Sources */,
 				7F644F7F2C81CB6C0075A406 /* CheckedContinuationBC.swift in Sources */,
 				7F644F7D2C7F06D50075A406 /* TaskGroupBC.swift in Sources */,
 				7F644F272C79BA670075A406 /* ContentView.swift in Sources */,
