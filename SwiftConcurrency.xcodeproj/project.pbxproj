@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7F4AB6AD2C9019B50049758B /* AsyncPublisherBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4AB6AC2C9019B50049758B /* AsyncPublisherBC.swift */; };
+		7F4AB6CF2C9AD7D10049758B /* StrongReferenceBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4AB6CE2C9AD7D10049758B /* StrongReferenceBC.swift */; };
 		7F644F252C79BA670075A406 /* SwiftConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F242C79BA670075A406 /* SwiftConcurrencyApp.swift */; };
 		7F644F272C79BA670075A406 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F262C79BA670075A406 /* ContentView.swift */; };
 		7F644F292C79BA680075A406 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F644F282C79BA680075A406 /* Assets.xcassets */; };
@@ -27,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		7F4AB6AC2C9019B50049758B /* AsyncPublisherBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncPublisherBC.swift; sourceTree = "<group>"; };
+		7F4AB6CE2C9AD7D10049758B /* StrongReferenceBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrongReferenceBC.swift; sourceTree = "<group>"; };
 		7F644F212C79BA670075A406 /* SwiftConcurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrency.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F644F242C79BA670075A406 /* SwiftConcurrencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyApp.swift; sourceTree = "<group>"; };
 		7F644F262C79BA670075A406 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				7F73B7C22C84D32500A5C107 /* GlobalActorBC.swift */,
 				7F73B7C42C87FB5000A5C107 /* SendableBC.swift */,
 				7F4AB6AC2C9019B50049758B /* AsyncPublisherBC.swift */,
+				7F4AB6CE2C9AD7D10049758B /* StrongReferenceBC.swift */,
 				7F644F282C79BA680075A406 /* Assets.xcassets */,
 				7F644F2A2C79BA680075A406 /* Preview Content */,
 			);
@@ -176,6 +179,7 @@
 				7F644F352C7B96F60075A406 /* DownloadImageAsync.swift in Sources */,
 				7F73B7C52C87FB5000A5C107 /* SendableBC.swift in Sources */,
 				7F73B7C32C84D32500A5C107 /* GlobalActorBC.swift in Sources */,
+				7F4AB6CF2C9AD7D10049758B /* StrongReferenceBC.swift in Sources */,
 				7F644F7F2C81CB6C0075A406 /* CheckedContinuationBC.swift in Sources */,
 				7F644F7D2C7F06D50075A406 /* TaskGroupBC.swift in Sources */,
 				7F644F272C79BA670075A406 /* ContentView.swift in Sources */,
