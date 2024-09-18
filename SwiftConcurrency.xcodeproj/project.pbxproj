@@ -11,6 +11,7 @@
 		7F4AB6CF2C9AD7D10049758B /* StrongReferenceBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4AB6CE2C9AD7D10049758B /* StrongReferenceBC.swift */; };
 		7F4AB6D12C9B03DC0049758B /* MvvmBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4AB6D02C9B03DC0049758B /* MvvmBC.swift */; };
 		7F4AB6D32C9B1B920049758B /* RefreshableBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4AB6D22C9B1B920049758B /* RefreshableBC.swift */; };
+		7F4AB6D52C9B1FC10049758B /* SearchableBC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F4AB6D42C9B1FC10049758B /* SearchableBC.swift */; };
 		7F644F252C79BA670075A406 /* SwiftConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F242C79BA670075A406 /* SwiftConcurrencyApp.swift */; };
 		7F644F272C79BA670075A406 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F644F262C79BA670075A406 /* ContentView.swift */; };
 		7F644F292C79BA680075A406 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F644F282C79BA680075A406 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 		7F4AB6CE2C9AD7D10049758B /* StrongReferenceBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrongReferenceBC.swift; sourceTree = "<group>"; };
 		7F4AB6D02C9B03DC0049758B /* MvvmBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MvvmBC.swift; sourceTree = "<group>"; };
 		7F4AB6D22C9B1B920049758B /* RefreshableBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshableBC.swift; sourceTree = "<group>"; };
+		7F4AB6D42C9B1FC10049758B /* SearchableBC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchableBC.swift; sourceTree = "<group>"; };
 		7F644F212C79BA670075A406 /* SwiftConcurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrency.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F644F242C79BA670075A406 /* SwiftConcurrencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyApp.swift; sourceTree = "<group>"; };
 		7F644F262C79BA670075A406 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				7F4AB6CE2C9AD7D10049758B /* StrongReferenceBC.swift */,
 				7F4AB6D02C9B03DC0049758B /* MvvmBC.swift */,
 				7F4AB6D22C9B1B920049758B /* RefreshableBC.swift */,
+				7F4AB6D42C9B1FC10049758B /* SearchableBC.swift */,
 				7F644F282C79BA680075A406 /* Assets.xcassets */,
 				7F644F2A2C79BA680075A406 /* Preview Content */,
 			);
@@ -188,6 +191,7 @@
 				7F73B7C32C84D32500A5C107 /* GlobalActorBC.swift in Sources */,
 				7F4AB6CF2C9AD7D10049758B /* StrongReferenceBC.swift in Sources */,
 				7F644F7F2C81CB6C0075A406 /* CheckedContinuationBC.swift in Sources */,
+				7F4AB6D52C9B1FC10049758B /* SearchableBC.swift in Sources */,
 				7F644F7D2C7F06D50075A406 /* TaskGroupBC.swift in Sources */,
 				7F644F272C79BA670075A406 /* ContentView.swift in Sources */,
 				7F4AB6D32C9B1B920049758B /* RefreshableBC.swift in Sources */,
